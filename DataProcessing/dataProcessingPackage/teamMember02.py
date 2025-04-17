@@ -1,5 +1,17 @@
 # teamMember02.py
 
+# File Name: teamMember02.py
+# Student Name: Richie James
+# email: james2c4@mail.uc.edu
+# Assignment Number: Assignment 08
+# Due Date: 4/20/2025
+# Course #/Section: IS 4010-001
+# Semester/Year:Spring 2025
+# Brief Description of the assignment: THis assignment takes a csv file and presents interesting data about it
+
+# Brief Description of what this module does: this module shows the top 5 states by population along with the count
+# Citations: https://chatgpt.com/g/g-cKXjWStaE-python/c/68013c85-48ec-8012-b7c8-a765bd3ad91a
+
 from collections import defaultdict
 
 class teamMember02:
